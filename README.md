@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @sanyavardhan
-- 👀 I’m interested in **data analytics**, **VFX animation**, and **graphic design**.
+- 👀 I’m interested in **data analytics**, **Sales and Marketing**, and **Script Writing**.
 - 🌱 I’m currently learning **SQL** to enhance my data skills.
 - 💞️ I’m looking to collaborate on **data-driven projects**, **creative designs**, and **animation**.
 - 📫 How to reach me: sanyavardhan50@gmail.com
